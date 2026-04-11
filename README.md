@@ -19,7 +19,7 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 ---
 
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/assets/Coder-Girl.gif?raw=true" alt="Girl Coding GIF" width="500">
+  <img src="https://github.com/knsong1/knsong1" alt="Girl Coding GIF" width="500">
 </div>
 
 
