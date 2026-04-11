@@ -19,7 +19,7 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding GIF" width="400">
+  <img src="https://media.tenor.com/7A2c3I2XkSIAAAAd/programador-coding.gif" alt="Girl Coding GIF" width="400">
 </div>
 
 # 📊 GitHub Analytics
@@ -33,6 +33,7 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitaurlam&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="pranitaurlam's Contribution Graph" />
 
 </div>
+
 ---
 
 ### 🧁 Tech I Use & Learn With
