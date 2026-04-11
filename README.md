@@ -19,8 +19,7 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 ---
 
 <p align="center">
-  Donate to:  <a href="https://donate.amnestyusa.org/page/92978/donate/1?ea.tracking.id=W23XXWDEVR0HP&supporter.appealCode=W23XXWDEVR0HP&en_og_source=W23XXWDEVR0HP&_gl=1*1plyr18*_gcl_au*MTgzMTg3OTYwLjE2ODcyMzgwNjg." onclick="window.open(this.href, '_blank'); return false;" >Amnesty Inernational</a> </p>
-<img align="right" alt="Coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif">
+<img align="right" alt="Coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif" width=500>
 
 
 
