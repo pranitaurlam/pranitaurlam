@@ -18,8 +18,8 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 
 ---
 
-<p align="center">
-<img align="right" alt="Coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif" width=250 height=300>
+<p >
+<img align="right" alt="Coding" width="400" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif" width=150 height=300>
 </p>
 
 
