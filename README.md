@@ -18,6 +18,23 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Coding GIF" width="400">
+</div>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=pranitaurlam&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="pranitaurlam's GitHub Stats" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitaurlam&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="pranitaurlam's Contribution Graph" />
+
+</div>
+---
+
 ### 🧁 Tech I Use & Learn With
 
 <p align="center">
