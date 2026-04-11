@@ -19,7 +19,7 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 ---
 
 <div align="center">
-  <img src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif" alt="Girl Coding GIF" width="500">
+  <img src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif" alt="Girl Coding GIF" width="150" height='250'>
 </div>
 
 
