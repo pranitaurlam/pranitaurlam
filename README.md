@@ -70,7 +70,9 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
   <br/><br/>
 
   <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitaurlam&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="My Contribution" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitaurlam&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" width="95%" alt="GitHub Activity Graph"/>
+
 </div>
 ---
 
