@@ -69,8 +69,8 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitaurlam&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt= "pranitaurlam Contribution" />
-
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitaurlam&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="My Contribution" />
 </div>
 ---
 
