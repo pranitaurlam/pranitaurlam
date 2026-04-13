@@ -62,6 +62,7 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 
 ---
 # 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pranitaurlam&show_icons=true&theme=normal)
 
 <div align="center">
   
