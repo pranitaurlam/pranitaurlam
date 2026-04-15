@@ -1,6 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi + I am +Urlam Pranita" />
+</p>
 
-### 🌷 Hi, I’m Pranita
+<div align="center">
 
 A quiet learner with a strong curiosity for technology.
 I enjoy building simple, interactive things on the web and growing step by step.
