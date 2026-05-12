@@ -63,16 +63,19 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 
 ---
 # 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pranitaurlam&show_icons=true&theme=normal)
 
 <div align="center">
-  
 
-  <br/><br/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranitaurlam&show_icons=true&theme=tokyonight" width="48%" />
+
+<img src="https://img.shields.io/badge/PRs%20Merged-48-blue?style=for-the-badge&logo=github" />
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitaurlam&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&custom_title=Pranita%20Urlam%27s%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
+
 ---
 
 ### 🤍 How I Approach Learning
