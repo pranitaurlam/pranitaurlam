@@ -66,15 +66,27 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranitaurlam&show_icons=true&theme=tokyonight" width="48%" />
+<!-- GitHub Stats -->
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranitaurlam&show_icons=true&theme=tokyonight" 
+  width="48%" 
+/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Merged%20PRs-72-2ea44f?style=for-the-badge&logo=github" />
+<!-- REAL Total Merged PRs -->
+<img 
+  src="https://img.shields.io/badge/dynamic/json?color=2ea44f&label=Merged%20PRs&query=total_count&url=https://api.github.com/search/issues?q=author:pranitaurlam+type:pr+is:merged&style=for-the-badge" 
+/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranitaurlam&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&custom_title=Pranita%20Urlam%27s%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph"/>
+<!-- Contribution Graph -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=pranitaurlam&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&custom_title=Pranita%20Urlam%27s%20Contribution%20Graph" 
+  width="95%" 
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
