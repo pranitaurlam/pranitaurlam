@@ -68,7 +68,9 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranitaurlam&show_icons=true&theme=tokyonight" width="48%" />
 
-<img src="https://img.shields.io/badge/PRs%20Merged-48-blue?style=for-the-badge&logo=github" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Merged%20PRs-72-2ea44f?style=for-the-badge&logo=github" />
 
 <br/><br/>
 
