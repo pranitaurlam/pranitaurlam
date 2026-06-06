@@ -42,7 +42,7 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
   <!-- <img src="https://img.shields.io/badge/PostgreSQL-eaf2ff?style=for-the-badge&logo=postgresql&logoColor=316192"/> -->
   <img src="https://img.shields.io/badge/Git-fff0e5?style=for-the-badge&logo=git&logoColor=f05032"/>
   <img src="https://img.shields.io/badge/GitHub-f5f5f5?style=for-the-badge&logo=github&logoColor=24292e"/>
-  <img src="https://miro.medium.com/0*bi82ULACvBgbwg4-" height=150 width=300/>
+  <img src="https://miro.medium.com/0*bi82ULACvBgbwg4-" height=100 width=150/>
   <img src="https://palcomtech.ac.id/wp-content/uploads/2023/11/nodejs_cover_photo_smaller_size.png"/>
   <img src="https://i0.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png?fit=872%2C472&ssl=1"/>
   <img src="https://miro.medium.com/1*OYpEW3PMltGC2MVvJ-5QTw.png"/>
