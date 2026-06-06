@@ -34,7 +34,7 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 <p align="center">
   <img src="https://img.shields.io/badge/C-e8f0fe?style=for-the-badge&logo=c&logoColor=2f5bea" height=100 width=150/>
   <img src="https://img.shields.io/badge/Java-fdecea?style=for-the-badge&logo=java&logoColor=d73a49" height=100 width=150/>
-  <img src="https://img.shields.io/badge/JavaScript-fff7d6?style=for-the-badge&logo=javascript&logoColor=000000" height=100 width=150/>
+  <img src="https://img.shields.io/badge/JavaScript-fff7d6?style=for-the-badge&logo=javascript&logoColor=000000" height=200 width=150/>
   <img src="https://img.shields.io/badge/HTML-fce8e6?style=for-the-badge&logo=html5&logoColor=e34f26" height=100 width=150/>
   <img src="https://img.shields.io/badge/CSS-e7f3ff?style=for-the-badge&logo=css3&logoColor=1572b6" height=100 width=150/>
   <img src="https://img.shields.io/badge/React-e8fbff?style=for-the-badge&logo=react&logoColor=61dafb" height=100 width=150/>
