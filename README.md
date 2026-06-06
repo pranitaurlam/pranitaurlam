@@ -32,20 +32,20 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 ### 🧁 Tech I Use & Learn With
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-e8f0fe?style=for-the-badge&logo=c&logoColor=2f5bea"/>
-  <img src="https://img.shields.io/badge/Java-fdecea?style=for-the-badge&logo=java&logoColor=d73a49"/>(basic)
-  <img src="https://img.shields.io/badge/JavaScript-fff7d6?style=for-the-badge&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/HTML-fce8e6?style=for-the-badge&logo=html5&logoColor=e34f26"/>
-  <img src="https://img.shields.io/badge/CSS-e7f3ff?style=for-the-badge&logo=css3&logoColor=1572b6"/>
-  <img src="https://img.shields.io/badge/React-e8fbff?style=for-the-badge&logo=react&logoColor=61dafb"/>
-  <img src="https://img.shields.io/badge/SQL-f1f5f9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C-e8f0fe?style=for-the-badge&logo=c&logoColor=2f5bea" height=100 width=150/>
+  <img src="https://img.shields.io/badge/Java-fdecea?style=for-the-badge&logo=java&logoColor=d73a49" height=100 width=150/>
+  <img src="https://img.shields.io/badge/JavaScript-fff7d6?style=for-the-badge&logo=javascript&logoColor=000000" height=100 width=150/>
+  <img src="https://img.shields.io/badge/HTML-fce8e6?style=for-the-badge&logo=html5&logoColor=e34f26" height=100 width=150/>
+  <img src="https://img.shields.io/badge/CSS-e7f3ff?style=for-the-badge&logo=css3&logoColor=1572b6" height=100 width=150/>
+  <img src="https://img.shields.io/badge/React-e8fbff?style=for-the-badge&logo=react&logoColor=61dafb" height=100 width=150/>
+  <img src="https://img.shields.io/badge/SQL-f1f5f9?style=for-the-badge" height=100 width=150/>
   <!-- <img src="https://img.shields.io/badge/PostgreSQL-eaf2ff?style=for-the-badge&logo=postgresql&logoColor=316192"/> -->
-  <img src="https://img.shields.io/badge/Git-fff0e5?style=for-the-badge&logo=git&logoColor=f05032"/>
-  <img src="https://img.shields.io/badge/GitHub-f5f5f5?style=for-the-badge&logo=github&logoColor=24292e"/>
+  <img src="https://img.shields.io/badge/Git-fff0e5?style=for-the-badge&logo=git&logoColor=f05032" height=100 width=150/>
+  <img src="https://img.shields.io/badge/GitHub-f5f5f5?style=for-the-badge&logo=github&logoColor=24292e" height=100 width=150/>
   <img src="https://miro.medium.com/0*bi82ULACvBgbwg4-" height=100 width=150/>
-  <img src="https://palcomtech.ac.id/wp-content/uploads/2023/11/nodejs_cover_photo_smaller_size.png"/>
-  <img src="https://i0.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png?fit=872%2C472&ssl=1"/>
-  <img src="https://miro.medium.com/1*OYpEW3PMltGC2MVvJ-5QTw.png"/>
+  <img src="https://palcomtech.ac.id/wp-content/uploads/2023/11/nodejs_cover_photo_smaller_size.png" height=100 width=150/>
+  <img src="https://i0.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png?fit=872%2C472&ssl=1" height=100 width=150/>
+  <img src="https://miro.medium.com/1*OYpEW3PMltGC2MVvJ-5QTw.png" height=100 width=150/>
 </p>
 
 ---
