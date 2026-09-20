@@ -19,27 +19,12 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 
 ---
 
-<div align="center">
-  <img src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif" alt="Girl Coding GIF" width="240" height='300'>
-</div>
-
-
-
-
-
 ---
 
 ### 🧁 Tech I Use & Learn With
 
-<h1>C language</h1>
-<h1>Python</h1>
-<h1>GO</h1>
-<h1>JavaScript</h1>
-<h1>Java</h1>
-<h1>HTML, CSS</h1>
-<h1>React.js , Node.js , Express.js, Mongoose</h1>
-<h1>SQL , MongoDB </h1>
-<h1>GIT</h1>
+<h3>C language ,Python ,GO ,JavaScript ,Java ,HTML, CSS ,React.js , Node.js , Express.js , Mongoose ,SQL , MongoDB ,GIT</h3>
+
 ---
 
 ### 🌼 What I’m Currently Doing
