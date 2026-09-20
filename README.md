@@ -36,10 +36,10 @@ Right now, I’m focusing on strengthening my fundamentals while building clean 
 
 ---
 
-### 🏠 A Project I’m Proud Of
+### 🏠 My Portfolio
 
 * **Interactive Portfolio**
-  A creative portfolio where Irepresents my skills and journey.
+  my skills and journey.
   🔗 [https://portfolio-house.vercel.app/](https://portfolio-house.vercel.app/)
 
 ---
